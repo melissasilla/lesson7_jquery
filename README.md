@@ -10,11 +10,11 @@ March 29th, 2017
 Melissa Silla
 ### Project Description:
 In lesson 7, we learned about how to properly use the jQuery framework.
+
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://melissasilla.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. AJAX
 2. jQuery basics
-3. DOM manipulatio
+3. DOM manipulation
