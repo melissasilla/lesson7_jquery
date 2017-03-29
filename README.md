@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29th, 2017
 
 ### Student Name:  
-(First and Last Name)
-
+Melissa Silla
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In lesson 7, we learned about how to properly use the jQuery framework.
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX
+2. jQuery basics
+3. DOM manipulatio
